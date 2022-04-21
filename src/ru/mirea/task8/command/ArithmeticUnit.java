@@ -7,10 +7,18 @@ public class ArithmeticUnit {
 
     public void run(double operand, char operation) {
         switch (operation) {
-            case '+' -> register += operand;
-            case '-' -> register -= operand;
-            case '*' -> register *= operand;
-            case '/' -> register /= operand;
+            case '+':
+                register += operand;
+                break;
+            case '-':
+                register -= operand;
+                break;
+            case '*':
+                register *= operand;
+                break;
+            case '/':
+                register /= operand;
+                break;
         }
     }
 
