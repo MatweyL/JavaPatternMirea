@@ -11,5 +11,4 @@ public interface WorkerRepository extends JpaRepository<Worker, Long> {
 
     List<Worker> findAllByFirstName(String firstName);
 
-
 }

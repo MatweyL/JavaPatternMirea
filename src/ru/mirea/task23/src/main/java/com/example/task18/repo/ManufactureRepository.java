@@ -1,15 +1,13 @@
 package com.example.task18.repo;
 
-import com.example.task18.entity.Worker;
+import com.example.task18.entity.Manufacture;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-
 import java.util.List;
 
 @Repository
-public interface WorkerRepository extends JpaRepository<Worker, Long> {
+public interface ManufactureRepository extends JpaRepository<Manufacture, Long> {
 
-    List<Worker> findAllByFirstName(String firstName);
-
+    List<Manufacture> findAllByAddress(String address);
 
 }

@@ -43,7 +43,6 @@ public class ManufactureService implements AbstractService<Manufacture>{
         log.info("Read manufacture by id = {}", id);
         return manufactureRepository.getById(id);
     }
-
     @Transactional
     @Override
     public boolean update(Manufacture manufacture, long id) {

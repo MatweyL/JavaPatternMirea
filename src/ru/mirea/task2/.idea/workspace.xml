@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cf9e966-5e61-403a-907c-a2e8a3b7ebc5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../task18/src/main/java/com/example/task18/repo/WorkerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task18/src/main/java/com/example/task18/repo/WorkerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task19/src/main/log/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/../task19/src/main/log/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task20/src/main/log/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/../task20/src/main/log/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task21/src/main/java/com/example/task18/service/ManufactureService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task21/src/main/java/com/example/task18/service/ManufactureService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task21/src/main/log/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/../task21/src/main/log/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task22/src/main/java/backups/24 апр. 2022 15-12/manufacture_backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task22/src/main/java/backups/24 апр. 2022 15-12/worker_backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task22/src/main/java/backups/24 апр. 2022 15-19/manufacture_backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task22/src/main/java/backups/24 апр. 2022 15-19/worker_backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task22/src/main/java/backups/24 апр. 2022 15-20/manufacture_backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task22/src/main/java/backups/24 апр. 2022 15-20/worker_backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task22/src/main/java/backups/24 апр. 2022 15-21/manufacture_backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task22/src/main/java/backups/24 апр. 2022 15-21/worker_backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task22/src/main/log/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/../task22/src/main/log/application.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="291ktchPblNoWlr5eo92KnyO4Oe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task23" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cf9e966-5e61-403a-907c-a2e8a3b7ebc5" name="Changes" comment="" />
+      <created>1652288194773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652288194773</updated>
+      <workItem from="1652288195916" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
